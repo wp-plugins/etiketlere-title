@@ -7,3 +7,5 @@ Etiketlerin başlığında rakam ya da hiç bir şey yazmaması yerine SEO için
 == Description ==
 
 Etiketlerin başlığında rakam ya da hiç bir şey yazmaması yerine SEO için etiketin kendisini yazan bir eklenti. Not: Eklentiyi aktif ettikten sonra normal etiket bulutu bileşeni yerine bu eklentinin bileşenini kullanmayı unutmayın.
+
+[SEO](http://www.seohocasi.com/ "SEO")
